@@ -1,0 +1,150 @@
+{
+    "consultant": {
+        "name": "Ehab Sherif",
+        "title": "Senior Property Consultant",
+        "company": "NCB Developments",
+        "phone1": "+20 111 263 575 3",
+        "phone2": "+20 10 500 565 43"
+    },
+    "projects": [
+        {
+            "id": 1,
+            "name": "Verity Business Complex",
+            "location": "New Capital , Down Town - Western Axis , Egypt",
+            "map_url": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d110502.60385044453!2d31.6318535!3d29.9881149!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x145822e11d08795d%3A0x69f687425482381e!2sNew%20Administrative%20Capital!5e0!3m2!1sen!2seg!4v1708600000000!5m2!1sen!2seg",
+            "image": "/static/images/WhatsApp Image 2026-02-23 at 4.31.09 AM.jpeg",
+            "units": [
+                {
+                    "type": "Admin Office",
+                    "size": "45m",
+                    "down_payment": "10%",
+                    "installments": "8 Years",
+                    "image": ""
+                },
+                {
+                    "type": "Retail Shop",
+                    "size": "30m",
+                    "down_payment": "15%",
+                    "installments": "7 Years",
+                    "image": ""
+                }
+            ],
+            "gallery": [
+                "/static/images/WhatsApp Image 2026-02-23 at 4.31.09 AM.jpeg",
+                "/static/images/WhatsApp Image 2026-02-23 at 4.31.12 AM (3).jpeg"
+            ],
+            "description": "Project Details\n\nClassification:\n- Classified by the Capital Authority as a Medium-Density Project\n\nLocation:\n- Direct view of the Western Axis, directly opposite the pharmaceutical companies\n- Overlooking the Central Business District (CBD) and the Iconic Tower\n- Located on the main arterial road connecting the “Measure of Excellence” area in the New Administrative Capital (North Mohammed Bin Zayed Axis) with the Financial and Government District\n\nBuilding Specifications:\n- Ground Floor + 13 Floors\n- 5 Parking Basement Levels\n- Total Land Area: 2,700 sqm\n- Typical Floor Area: 800 sqm\n\nFloor Distribution:\n- Ground Floor: Food & Beverage\n- First Floor: Retail\n- Second Floor: Food Court\n- Third Floor: Medical\n- Fourth to Thirteenth Floors: Administrative\n\nUnits:\n- Fully finished administrative units with air conditioning\n- Panorama finishing with direct views of the Western Axis\n\nPayment Plan:\n- Installment period up to 15 years"
+        },
+        {
+            "id": 2,
+            "name": "INNO-VIEW",
+            "location": "Plot MU5-3, Downtown Area, New Administrative Capital, Egypt",
+            "map_url": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d110502.60385044453!2d31.6318535!3d29.9881149!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x145822e11d08795d%3A0x69f687425482381e!2sNew%20Administrative%20Capital!5e0!3m2!1sen!2seg!4v1708600000000!5m2!1sen!2seg",
+            "image": "/static/images/WhatsApp Image 2026-02-23 at 4.31.12 AM.jpeg",
+            "units": [
+                {
+                    "type": "Admin Office",
+                    "size": "35m",
+                    "down_payment": "10%",
+                    "installments": "8 Years",
+                    "image": ""
+                },
+                {
+                    "type": "Retail Shop",
+                    "size": "40m",
+                    "down_payment": "15%",
+                    "installments": "7 Years",
+                    "image": ""
+                }
+            ],
+            "gallery": [],
+            "description": "Project Details\n\nLocation:\n- Plot MU5-3, Downtown Area\n- Directly overlooking the Western Central Park\n- Next to the Ministries District, Banks District, and the Green River\n\nProject Description:\n- Ground Floor + 15 Floors\n- 3-Level Underground Parking Garage\n- Total Land Area: 3,275 sqm\n\nSpaces & Usage:\n- Ground Floor: Restaurant & Café 🍽️\n- First Floor: Kids Hub 🏎️🛫\n- Second Floor: Food Court 🍟🍔🍕🍩\n- Third Floor: World Gym 🚧🤼♂️🚧\n- Fourth to Fifteenth Floors: Administration Offices 📔📒\n\nUnits:\n- Fully finished administrative offices starting from 35 sqm\n\nConsultants:\n- Engineering Consultant: Hafez Constantly\n- Management Company: Brain 2 Fact"
+        },
+        {
+            "id": 3,
+            "name": "Valencia Valle",
+            "location": "Plot MU5-3, Downtown Area, New Administrative Capital, Egypt",
+            "map_url": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d110502.60385044453!2d31.6318535!3d29.9881149!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x145822e11d08795d%3A0x69f687425482381e!2sNew%20Administrative%20Capital!5e0!3m2!1sen!2seg!4v1708600000000!5m2!1sen!2seg",
+            "image": "/static/images/WhatsApp Image 2026-02-23 at 4.31.11 AM (1).jpeg",
+            "units": [
+                {
+                    "type": "Admin Office",
+                    "size": "35m",
+                    "down_payment": "10%",
+                    "installments": "8 Years",
+                    "image": ""
+                },
+                {
+                    "type": "Retail Shop",
+                    "size": "40m",
+                    "down_payment": "15%",
+                    "installments": "7 Years",
+                    "image": ""
+                }
+            ],
+            "gallery": [
+                "/static/images/WhatsApp Image 2026-02-23 at 4.31.11 AM.jpeg",
+                "/static/images/WhatsApp Image 2026-02-23 at 4.31.10 AM (2).jpeg",
+                "/static/images/WhatsApp Image 2026-02-23 at 4.31.10 AM (1).jpeg",
+                "/static/images/WhatsApp Image 2026-02-23 at 4.31.10 AM.jpeg",
+                "/static/images/WhatsApp Image 2026-02-23 at 4.31.09 AM (1).jpeg"
+            ],
+            "description": "Project Details\n\nLocation:\n- Plot MU5-3, Downtown Area\n- Directly overlooking the Western Central Park\n- Next to the Ministries District, Banks District, and the Green River\n\nBuilding Specifications:\n- Ground Floor + 15 Floors\n- 3-Level Underground Parking Garage\n- Total Land Area: 3,275 sqm\n\nFloor Distribution:\n- Ground Floor: Restaurant & Café 🍽️\n- First Floor: Kids Hub 🏎️🛫\n- Second Floor: Food Court 🍟🍔🍕🍩\n- Third Floor: World Gym 🚧🤼♂️🚧\n- Fourth to Fifteenth Floors: Administration Offices 📔📒\n\nUnits:\n- Fully finished administrative offices starting from 35 sqm\n\nConsultants:\n- Engineering Consultant: Hafez Constantly\n- Management Company: Brain 2 Fact"
+        },
+        {
+            "id": 4,
+            "name": "V-HUB",
+            "location": "R7, New Administrative Capital, Egypt",
+            "map_url": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d110502.60385044453!2d31.6318535!3d29.9881149!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x145822e11d08795d%3A0x69f687425482381e!2sNew%20Administrative%20Capital!5e0!3m2!1sen!2seg!4v1708600000000!5m2!1sen!2seg",
+            "image": "/static/images/WhatsApp Image 2026-02-23 at 5.16.46 AM.jpeg",
+            "units": [
+                {
+                    "type": "Commercial Unit",
+                    "size": "29 sqm",
+                    "down_payment": "10%",
+                    "installments": "8 Years",
+                    "image": "/static/images/"
+                },
+                {
+                    "type": "Admin Office",
+                    "size": "44 sqm",
+                    "down_payment": "10%",
+                    "installments": "9 Years",
+                    "image": "/static/images/"
+                }
+            ],
+            "gallery": [
+                "/static/images/WhatsApp Image 2026-02-23 at 5.16.46 AM.jpeg",
+                "/static/images/WhatsApp Image 2026-02-23 at 5.16.45 AM (1).jpeg",
+                "/static/images/WhatsApp Image 2026-02-23 at 5.16.45 AM.jpeg"
+            ],
+            "description": "Project Details\n\nClassification:\n- Mixed-Use Commercial Strip Mall\n\nLocation:\n- Prime location overlooking Rock Vera Street and the 800m Lagoon\n- Strategically positioned to serve compound residents and outside visitors\n- High visibility with double-view frontage\n\nUnit Types & Starting Prices:\n- Commercial Units:\n  - Spaces: 29 sqm\n  - Price per sqm: 162,750 EGP\n  - Total Price: 4,719,750 EGP\n- Administrative Units:\n  - Spaces: 44 sqm\n  - Price per sqm: 82,159 EGP\n  - Total Price: 3,708,892 EGP\n\nSelling Points:\n- Prime Location\n- All business activities in one integrated strip area:\n  - Commercial\n  - Administrative\n  - Food Court\n  - Medical\n  - Serviced Apartments\n- Serving both compound residents and external visitors\n- Double View: Rock Vera Street & 800m Lagoon\n- Efficient Construction Ratio\n- Smart Architectural Design\n- 3 Malls connected only at first floor level for efficient crowd management\n\nBuilding Specifications:\n- Ground Floor + Multiple Upper Floors\n- Smart layout for maximum operational efficiency\n- Integrated strip mall concept\n\nDelivery:\n- Delivery within 3 Years\n\nPayment Plan:\n- Flexible installment plans available."
+        }
+    ],
+    "offers": [
+        {
+            "id": 1,
+            "title": "Ramadan Special Offer",
+            "description": "Get a 5% discount on all units and extended installment plans up to 12 years.",
+            "expiry": "Ends at the end of Ramadan 2024",
+            "badge": "Seasonal",
+            "image": ""
+        },
+        {
+            "id": 2,
+            "title": "Early Bird Launch",
+            "description": "Zero down payment for the first 50 buyers at Verity Business Complex.",
+            "expiry": "Limited Time Only",
+            "badge": "Limited",
+            "image": ""
+        },
+        {
+            "id": 3,
+            "title": "Summer Flash Sale",
+            "description": "Exclusive cash discount of 15% on medical units in Solano Mall.",
+            "expiry": "Valid through August 2024",
+            "badge": "Hot",
+            "image": ""
+        }
+    ]
+}
